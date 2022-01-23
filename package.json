@@ -1,0 +1,16 @@
+{
+    "name": "chat-guard",
+    "version": "0.0.1",
+    "description": "Chat Guard",
+    "main": "elchavopy.js",
+    "scripts": {
+      "start": "elchavopy theark.js"
+    },
+    "dependencies": {
+      "discord.js": "^12.5.3",
+      "moment": "^2.29.1",
+      "moment-duration-format": "^2.3.2",
+      "ms": "^2.1.3"
+    },
+    "license": "MIT"
+  }
