@@ -4,7 +4,7 @@
     "description": "Chat Guard",
     "main": "elchavopy.js",
     "scripts": {
-      "start": "elchavopy theark.js"
+      "start": "node ."
     },
     "dependencies": {
       "discord.js": "^12.5.3",
